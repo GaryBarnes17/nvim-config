@@ -57,6 +57,7 @@ return packer.startup(function(use)
 	use("goolord/alpha-nvim")
 	use("antoinemadec/FixCursorHold.nvim") -- This is needed to fix lsp doc highlight
 	use("windwp/nvim-ts-autotag")
+	use("karb94/neoscroll.nvim")
 
 	-- Colorschemes
 	use("lunarvim/darkplus.nvim")
