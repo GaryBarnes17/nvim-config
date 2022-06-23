@@ -53,7 +53,6 @@ return packer.startup(function(use)
 	use("nvim-lualine/lualine.nvim")
 	use("lewis6991/impatient.nvim")
 	use("lukas-reineke/indent-blankline.nvim")
-	use("goolord/alpha-nvim")
 	use("antoinemadec/FixCursorHold.nvim") -- This is needed to fix lsp doc highlight
 	use("windwp/nvim-ts-autotag")
 	use("karb94/neoscroll.nvim")
