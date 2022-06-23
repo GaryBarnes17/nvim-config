@@ -59,6 +59,10 @@ return packer.startup(function(use)
 
 	-- Colorschemes
 	use("lunarvim/darkplus.nvim")
+	use("sainnhe/sonokai")
+	use("sainnhe/everforest")
+	use("morhetz/gruvbox")
+	use("joshdick/onedark.vim")
 
 	-- cmp plugins
 	use("hrsh7th/nvim-cmp") -- The completion plugin

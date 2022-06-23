@@ -124,6 +124,11 @@ _G.packer_plugins = {
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/darkplus.nvim",
     url = "https://github.com/lunarvim/darkplus.nvim"
   },
+  everforest = {
+    loaded = true,
+    path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/everforest",
+    url = "https://github.com/sainnhe/everforest"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/friendly-snippets",
@@ -133,6 +138,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
+  },
+  gruvbox = {
+    loaded = true,
+    path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/gruvbox",
+    url = "https://github.com/morhetz/gruvbox"
   },
   ["impatient.nvim"] = {
     loaded = true,
@@ -209,6 +219,11 @@ _G.packer_plugins = {
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
     url = "https://github.com/kyazdani42/nvim-web-devicons"
   },
+  ["onedark.vim"] = {
+    loaded = true,
+    path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/onedark.vim",
+    url = "https://github.com/joshdick/onedark.vim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -228,6 +243,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/popup.nvim",
     url = "https://github.com/nvim-lua/popup.nvim"
+  },
+  sonokai = {
+    loaded = true,
+    path = "/Users/gary.barnes/.local/share/nvim/site/pack/packer/start/sonokai",
+    url = "https://github.com/sainnhe/sonokai"
   },
   ["telescope-media-files.nvim"] = {
     loaded = true,
